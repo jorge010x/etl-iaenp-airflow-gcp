@@ -1,4 +1,5 @@
 # etl-iaenp-airflow-gcp
+#Autor: Jorge Córdova (7297)
 # ETL IAENP con Apache Airflow y Google BigQuery
 
 Este repositorio contiene la definición de un pipeline ETL utilizando Apache Airflow para extraer, transformar y cargar datos del dataset IAENP (Indicadores de Actividad Económica No Petrolera) del SRI en un Data Warehouse en Google BigQuery.
