@@ -27,8 +27,6 @@ etl-iaenp-airflow-gcp/
 
 │ └── SRI_IAENP_Mensual.csv # Dataset original usado para la práctica
 
-├── .gitignore # Para excluir archivos sensibles
-
 └── README.md
 
 ## Descripción del flujo ETL
