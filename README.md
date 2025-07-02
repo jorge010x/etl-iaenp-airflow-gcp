@@ -14,13 +14,21 @@ Este repositorio contiene la definición de un pipeline ETL utilizando Apache Ai
 
 ## Estructura del proyecto
 etl-iaenp-airflow-gcp/
+
 ├── dags/
+
 │ └── etl_iaenp_dag.py # DAG de Airflow con tareas ETL
+
 ├── scripts/
+
 │ └── transformaciones_auxiliares.py # Script auxiliar para pruebas locales (opcional)
+
 ├── gcs/
+
 │ └── SRI_IAENP_Mensual.csv # Dataset original usado para la práctica
+
 ├── .gitignore # Para excluir archivos sensibles
+
 └── README.md
 
 ## Descripción del flujo ETL
